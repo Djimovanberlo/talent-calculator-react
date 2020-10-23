@@ -6,7 +6,7 @@ const MainContent = () => {
     <table>
     <tbody>
         <tr>
-            <td>q
+            <td>
             </td>
             <td>w
             </td>

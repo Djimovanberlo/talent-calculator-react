@@ -1,7 +1,9 @@
 #tc-classes {
   width: 946px;
+  height: 50px;
   margin: 0 auto;
   padding-bottom: 10px;
+  display: block;
 }
 
 #tc-classes-inner {

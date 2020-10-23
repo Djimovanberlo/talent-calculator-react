@@ -1,0 +1,22 @@
+#tc-classes {
+  width: 946px;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+
+#tc-classes-inner {
+  width: 450px;
+  margin: 0 auto;
+  text-align: center;
+  margin-left: 70px;
+}
+
+.iconMedium {
+  float: left;
+  margin-right: 2px;
+  opacity: 0.6666;
+  width: 44px;
+  height: 44px;
+  position: relative;
+  z-index: 0;
+}

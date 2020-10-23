@@ -1,0 +1,59 @@
+.talentcalc-default {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.tc-sidebar-anchor {
+  position: relative;
+}
+
+.tc-sidebar {
+  position: absolute;
+  top: 0;
+  padding: 10px;
+  background-color: #141414;
+  left: 621px;
+}
+
+.tc-sidebar-inner {
+  width: 60px;
+}
+
+.tc-button-reset {
+  float: right;
+}
+
+.rcorners tt {
+  left: 0;
+  top: 0;
+  background-position: top left;
+}
+
+.rcorners strong {
+  right: 0;
+  top: 0;
+  background-position: top right;
+}
+
+.rcorners var {
+  left: 0;
+  bottom: 0;
+  background-position: bottom left;
+}
+
+.rcorners em {
+  right: 0;
+  bottom: 0;
+  background-position: bottom right;
+}
+
+.rcorners tt,
+.rcorners strong,
+.rcorners var,
+.rcorners em {
+  display: block;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  /* background: url(../images/corners.png) no-repeat; */
+}
